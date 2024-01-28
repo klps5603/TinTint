@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TinTint</string>
+    <string name="enter">進入</string>
+    <string name="confirm_exit_app">再點擊一次離開APP</string>
+    <string name="info">提示</string>
+    <string name="confirm">確認</string>
+    <string name="cancel">取消</string>
+    <string name="please_check_network">請確認網路連線</string>
+    <string name="retry_connect">重新連線</string>
+</resources>
